@@ -3,7 +3,7 @@ const appVue = new Vue ({
 
     data: {
         h1Text: "Hello Vue.js",
-        image: "https://picsum.photos/200/300",
+        image: "https://picsum.photos/500/300",
         classList: "text-center pb-3"
     }
 })
